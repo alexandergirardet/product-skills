@@ -1,0 +1,12 @@
+{
+  "name": "@alavida/plugin-prd-development",
+  "version": "0.1.0",
+  "description": "PRD development workflow with full skillgraph — 22 skills from problem statement to user stories",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alavida/Product-Manager-Skills.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}

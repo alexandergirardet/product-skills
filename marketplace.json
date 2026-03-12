@@ -1,0 +1,22 @@
+{
+  "name": "alavida-pm-skills",
+  "owner": {
+    "name": "Alavida",
+    "email": "hello@alavida.ai"
+  },
+  "metadata": {
+    "description": "Product management skills and workflows for Claude Code",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "prd-development",
+      "source": "./plugins/prd-development",
+      "description": "PRD development workflow — 22 composable PM skills from problem statement through user stories",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["product-management", "prd", "user-stories", "discovery", "workflows"]
+    }
+  ]
+}
